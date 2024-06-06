@@ -78,5 +78,5 @@ This package provides a custom debug logger for Unity projects. It allows you to
    }
    ```
 
-3. Customize the log settings by modifying the `LogSettings` scriptable object in the "Resources" folder.
+
 
